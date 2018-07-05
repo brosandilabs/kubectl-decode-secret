@@ -1,0 +1,4 @@
+name: "decode-secret"
+shortDesc: "decode kubernetes secrets"
+longDesc: "decode-secret allows users to view decoded kubernetes secrets"
+command: "./decode-secret"
