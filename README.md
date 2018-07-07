@@ -8,7 +8,7 @@ A kubectl plugin to decode Kubernetes secrets
 ### Installation
 Add `kubectl-decode-secret` to your `kubectl` plugins directory. For more information about how plugins are loaded, please see the [official documentation](https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/).
 ```
-git clone git@github.com:normanjoyner/kubectl-decode-secret.git ~/.kube/plugins/kubectl-decode-secret
+git clone git@github.com:brosandilabs/kubectl-decode-secret.git ~/.kube/plugins/kubectl-decode-secret
 ```
 
 ### Dependencies
